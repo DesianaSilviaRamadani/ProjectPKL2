@@ -84,7 +84,7 @@ h1,h2,h3,h4,h5,h6{
     color: white;
 }
 .banner-text .title{
-    font-size: 10px;
+    font-size: 13px;
     letter-spacing: 2px;
     /* margin-bottom: -1px; */
     
@@ -125,7 +125,7 @@ h1,h2,h3,h4,h5,h6{
     margin-right: -83px;
 }
 .section-1 .container p{
-    font-size: 12px;
+    font-size: 13px;
 }
 .section-1 .container .deskripsi{
     padding-top: 10px;
@@ -172,7 +172,7 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 600;
 }
 .section-2 .container .text-2 p{
-    font-size: 12px;
+    font-size: 13px;
     margin-right: 100px;
 }
 .section-2 .container .text-2 h2{
@@ -225,11 +225,11 @@ h1,h2,h3,h4,h5,h6{
     padding-bottom: 10px;
 }
 .section-3 .container h5{
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bold;
 }
 .section-3 .container p{
-    font-size: 9px;
+    font-size: 13px;
     font-weight: bold;
 }
 

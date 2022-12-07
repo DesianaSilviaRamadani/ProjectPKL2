@@ -84,13 +84,13 @@ h1,h2,h3,h4,h5,h6{
     color: white;
 }
 .banner-text .title{
-    font-size: 13px;
+    font-size: 10px;
     letter-spacing: 2px;
     /* margin-bottom: -1px; */
     
 }
 .banner-text p{
-    font-size: 10px;
+    font-size: 13px;
     word-spacing: 2px;
 }
 .banner-text h2{
